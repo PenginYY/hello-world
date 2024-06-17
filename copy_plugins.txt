@@ -1,0 +1,7 @@
+plugins:
+  - artifactID: git
+    source:
+        version: latest
+  - artifactID: docker
+    source:
+        version: latest
