@@ -1,0 +1,4 @@
+plugins:
+  - artifactID: jenkins
+    source:
+      version: latest
